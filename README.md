@@ -79,7 +79,7 @@
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/dongari-sri-kashyap-549760249/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
   <a href="https://your-portfolio.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome" /></a>
 </p>
