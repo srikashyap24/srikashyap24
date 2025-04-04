@@ -27,19 +27,6 @@
 
 ---
 
-### 🚀 Projects
-
-Here are a few highlights from my portfolio:
-
-- 🧠 [**Campus Track**](https://github.com/your-username/campus-track) – AI-based face recognition system for student tracking and emergency sign detection
-- 🧭 [**JNTUH Navigation Website**](https://github.com/your-username/jntuh-navigation) – Interactive map-based website used in Orientation 2024
-- 📈 [**Time-Series Modeling of Negative Price Duration**](https://github.com/your-username/eu-energy-price-modeling) – Predictive analytics using SARIMA, LSTM, and XGBoost
-- 📚 [**Swedish-English Flashcard App**](https://github.com/your-username/swedish-flashcards) – Tkinter app for learning Swedish vocabulary
-
-> 👉 Check out all my work in the **[Projects](https://github.com/your-username?tab=repositories)** tab!
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -65,9 +52,6 @@ Here are a few highlights from my portfolio:
 
 ---
 
-### 🐍 Fun
-
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **srikashyap24/srikashyap24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
