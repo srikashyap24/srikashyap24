@@ -95,7 +95,7 @@
 
 ### ✨ Quote
 
-> *“To understand recursion, you must first understand recursion.*
+> *To understand recursion, you must first understand recursion.*
 
 ---
 
