@@ -66,7 +66,7 @@
 
 <!-- 💫 Animation on hover -->
 <style>
-  img:hover {
+  img: hover {
     transform: scale(1.1);
     transition: all 0.2s ease-in-out;
   }
