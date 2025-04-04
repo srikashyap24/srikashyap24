@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srikashyap24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://img.shields.io/badge/GitHub%20Streak-🔥%20Keep%20it%20going!-brightgreen?style=for-the-badge"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikashyap24&layout=compact&theme=tokyonight)
 
 </p>
 
