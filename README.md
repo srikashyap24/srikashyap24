@@ -6,10 +6,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently a student exploring the realms of **AI, Web Development, and Cloud Computing**
-- 🔭 I’m currently working on: polishing my **portfolio website** and contributing to open-source
-- 🌱 I’m learning: **AWS Cloud Practitioner**, **Next.js**, and **system design**
-- 💬 Ask me about: anything tech, AI, or programming related
+- 🎓 I'm currently a student exploring the realms of **AI, Devops, Front-End Development and Cloud Computing**
+- 🌱 I’m learning: **AWS Cloud Practitioner**
+- 💬 Ask me about: anything tech, AI, or programming related.
 - ⚡ Fun fact: I love turning ideas into interactive tech!
 
 ---
