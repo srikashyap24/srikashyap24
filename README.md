@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Sri Kashyap Dongari</h1>
-<h3 align="center">Passionate about Machine learning-AI,Cloud,Devops</h3>
+<h3 align="center">Passionate about Data Science,Cloud,Devops</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently a student exploring the realms of **AI, Devops, Front-End Development and Cloud Computing**
+- 🎓 I'm currently a student exploring the realms of **Data Science, Devops, Front-End Development and Cloud Computing**
 - 🌱 I’m learning: **AWS Cloud Practitioner**
 - 💬 Ask me about: anything tech, AI, or programming related.
 - ⚡ Fun fact: I love turning ideas into interactive tech!
