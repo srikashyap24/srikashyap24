@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srikashyap24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
- <img src="https://github-readme-streak-stats.demolab.com?user=srikashyap24&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  ![Srikashyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=srikashyap24&show_icons=true&theme=tokyonight)
 </p>
 
 ---
