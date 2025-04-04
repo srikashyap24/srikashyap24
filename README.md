@@ -1,7 +1,6 @@
-## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Passionate Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Sri Kashyap Dongari</h1>
+<h3 align="center">Passionate about Machine learning-AI,Cloud,Devops</h3>
 
 ---
 
