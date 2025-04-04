@@ -64,15 +64,6 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" title="Canva" />
 </p>
 
-<!-- 💫 Animation on hover -->
-<style>
-  img: hover {
-    transform: scale(1.1);
-    transition: all 0.2s ease-in-out;
-  }
-</style>
-
-
 ---
 
 ### 📊 GitHub Stats
