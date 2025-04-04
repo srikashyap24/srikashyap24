@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srikashyap24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikashyap24&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikashyap24&layout=compact&theme=tokyonight" />
 
 </p>
 
