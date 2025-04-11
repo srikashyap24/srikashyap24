@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently a student exploring the realms of **Data Science, Devops, Front-End Development and Cloud Computing**
-- 🌱 I’m learning: **AWS Cloud Practitioner**
+- **AWS Certified Cloud Practitioner**
 - 💬 Ask me about: anything tech, AI, or programming related.
 - ⚡ Fun fact: I love turning ideas into interactive tech!
 
