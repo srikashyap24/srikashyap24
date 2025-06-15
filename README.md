@@ -8,7 +8,7 @@
 
 - 🎓 I'm currently a student exploring the realms of **Data Science, Devops, Front-End Development and Cloud Computing**
 - ☁️🟧 **AWS Certified Cloud Practitioner**
-- 🌱 Learning **Docker,Kubernetes/MLOps(end to end)/AI(LLMs)**
+- 🌱 Learning **Kubernetes/MLOps(end to end)/AI(LLMs)**
 - 💬 Ask me about: anything tech, AI, or programming related.
 - ⚡ Fun fact: I love turning ideas into interactive tech!
 
