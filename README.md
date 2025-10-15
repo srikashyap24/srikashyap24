@@ -87,7 +87,7 @@
   <a href="mailto:srikashyap2107@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" style="width: 150px; height: auto;" />
   </a>
-  <a href="(https://sri-kashyap-dongari-portfolio.vercel.app)" target="_blank">
+  <a href="https://sri-kashyap-dongari-portfolio.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome" style="width: 150px; height: auto;" />
   </a>
 </p>
